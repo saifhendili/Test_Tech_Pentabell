@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	background-color: #f2f2f2;
+  }
+ 
+  .alert {
+	padding: 10px 80px;
+	border-radius: 5px;
+  }
+  .logout {
+	margin: 0 30px 2px 8px;
+  }
+  .alert-danger2 {
+	border: solid 1px;
+	background-color: #ca4444;
+	color: white;
+	position: absolute;
+	margin: 70px;
+	width: 78%;
+	top: 650px;
+  }
+  .alert-danger {
+	border: solid 1px;
+	background-color: #ca4444;
+	color: white;
+	margin: 0 400px;
+  }
+  .alert-danger3 {
+	width: 78%;
+	border: solid 1px;
+	background-color: #ca4444;
+	color: white;
+	margin: 0 70px;
+	position: relative;
+  
+	top: 800px;
+  }
+  .alert-0 {
+	margin-top: 70px;
+  }
+  .alert-success {
+	background-color: green;
+	color: white;
+	position: fixed;
+	margin: 70px;
+	width: 78%;
+
+  }
+  .alert-success2 {
+	background-color: green;
+	color: white;
+	position: fixed;
+	margin: 70px;
+	width: 78%;
+  }
+
+  #list1 .form-control {
+	border-color: transparent;
+  }
+  #list1 .form-control:focus {
+	border-color: transparent;
+	box-shadow: none;
+  }
+  #list1 .select-input.form-control[readonly]:not([disabled]) {
+	background-color: #fbfbfb;
+  }
+  .barree{
+
+		text-decoration: line-through;
+		
+  }
